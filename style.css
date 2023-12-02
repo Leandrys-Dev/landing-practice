@@ -4,6 +4,7 @@
 }
 
 body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     width: 100vw;
 }
 
@@ -27,8 +28,16 @@ nav {
 header,
 .nav-link-container a,
 footer,
-.logotype {
+.logotype,
+button {
     color: #f9faf8;
+}
+
+/* bolder text */
+button,
+.logotype,
+.content-head-intro h2 {
+    font-weight: bolder;
 }
 
 /* flex direction column */
@@ -39,14 +48,13 @@ header,
 }
 
 header img {
-    width: 18.75rem;
+    width: 25rem;
     height: auto;
 }
 
 .logotype {
     padding-left: 1rem;
     font-size: 1.5rem;
-    font-weight: bolder;
 }
 
 header,
@@ -58,14 +66,12 @@ footer {
 nav {
     align-items: center;
     justify-content: space-around;
-    gap: 6.25rem;
 }
 
 .nav-link-container {
-    width: 18rem;
-    flex-shrink: 1;
+    flex: 0 1 auto;
     list-style-type: none;
-    justify-content: space-around;
+    gap: 1rem;
     a {
         text-decoration: none;
     }
@@ -82,4 +88,15 @@ nav {
     align-items: start;
     gap: 1rem;
     text-wrap: balance;
+}
+
+.content-head-intro h2 {
+    font-size: 3rem;
+}
+
+button {
+    padding: 0.3rem 1.5rem;
+    background: #3882f6;
+    border: none;
+    border-radius: 0.3rem;
 }
