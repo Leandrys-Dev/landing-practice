@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="418.52618"
+   height="418.67844"
+   viewBox="0 0 418.52618 418.67844"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="ldev_logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#f100aa;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#52009d;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       x1="369.85132"
+       y1="405.17813"
+       x2="193.64349"
+       y2="212.58028"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-42.127682,-36.508026)">
+    <circle
+       style="fill:url(#linearGradient3);fill-opacity:1;stroke:#05fd00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:80, 20, 10, 20;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1"
+       cx="251.31462"
+       cy="245.84724"
+       r="204.33925"
+       inkscape:label="background_circle" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-42.127682,-36.508026)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:86.3945px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:7.04656px;fill:#00ff00;fill-opacity:1;stroke-width:26.9983;stroke-linecap:round;stroke-linejoin:round"
+       x="57.174828"
+       y="282.57748"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="57.174828"
+         y="282.57748"
+         style="fill:#00ff00;fill-opacity:1;stroke-width:26.9983">&lt;/LDev&gt;</tspan></text>
+  </g>
+</svg>
