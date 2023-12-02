@@ -21,7 +21,8 @@ nav,
 cite,
 .signup-form-container,
 .signup-form,
-.signup-form-info {
+.signup-form-info,
+footer {
     display: flex;
 }
 
@@ -186,4 +187,9 @@ cite {
 
 #form {
     border: 2px solid #e5e7eb;
+}
+
+footer {
+    align-items: center;
+    justify-content: center;
 }
